@@ -4,4 +4,4 @@ mordou
 
 first sentence
 
-[测试目录](test)
+[测试目录](test.md)
